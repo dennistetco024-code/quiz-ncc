@@ -1,0 +1,7 @@
+body{font-family:-apple-system;background:#f4f4f4;text-align:center}
+#app{max-width:600px;margin:auto;padding:20px}
+button{padding:15px;margin:10px;width:100%;font-size:18px}
+.answer{background:#007AFF;color:white}
+.correct{background:green}
+.wrong{background:red}
+.hidden{display:none}

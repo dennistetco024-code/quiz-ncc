@@ -1,0 +1,9 @@
+{
+"name":"Quiz NCC Taxi",
+"short_name":"Quiz NCC",
+"start_url":"index.html",
+"display":"standalone",
+"background_color":"#ffffff",
+"theme_color":"#007AFF",
+"icons":[]
+}
